@@ -1,0 +1,113 @@
+body {
+    width: 90%;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    border-left: 2px solid #555;
+    padding-left: 10px;
+}
+
+article {
+    border-left: 2px solid #555;
+    padding-left: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: teal;
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+nav a {
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    margin-right: 3px;
+}
+
+nav a:hover {
+    background-color: #ddd;
+}
+
+h3 {
+    color: #555;
+}
+
+aside {
+    font-style: italic;
+}
+
+ul,
+ol,
+dl {
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-bottom: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 10px;
+}
+
+th,
+td {
+    border: 1px solid #555;
+    padding: 8px;
+    text-align: left;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+nav a {
+    color: black;
+}
+
+nav a:hover {
+    color: black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #555;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 1px solid #555;
+    text-align: center;
+    font-size: 0.9em;
+}
